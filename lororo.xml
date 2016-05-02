@@ -27,6 +27,72 @@
       <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8</link>
       <thumbnail>http://latino-webtv.com/iptv/logos/fox.png</thumbnail>
     </item>
+    
+<item>
+      <title>fox sport HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>fox sports 2 HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FX HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FOX</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FX</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FOX LIFE</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX 1 HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX ACTION HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX MOVIES HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CINEMA HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CLASSIC HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CINEMA</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CLASSIC</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
     <item>
       <title>fox hd ruso</title>
       <link>http://185.46.163.221:4466/FOXHD</link>
@@ -50,5 +116,5 @@
       <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqF2-cC27iwOLvXwswhX9f4XOcbCTdP2cUGz6rnzQD_gUgYZwqz3UcmroFyQ</thumbnail>
     </item>
   </items>
-</channel>
+
 </channels>
