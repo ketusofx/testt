@@ -34,4 +34,21 @@
     </item>
   </items>
 </channel>
+<channel>
+  <name>HISTORY</name>
+  <thumbnail>http://latino-webtv.com/iptv/logos/history%20hd.png</thumbnail>
+  <fanart>http://vignette4.wikia.nocookie.net/logopedia/images/d/d6/History_Channel_2015_logo.jpg/revision/latest?cb=20150531212611</fanart>
+  <items>
+    <item>
+      <title>history HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8</link>
+      <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUAsnHAy_0hi3Yy3cobZbNycaNm2WEXucDHF9V44QGcEr67gLC_A</thumbnail>
+    </item>
+    <item>
+      <title>history SD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8</link>
+      <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqF2-cC27iwOLvXwswhX9f4XOcbCTdP2cUGz6rnzQD_gUgYZwqz3UcmroFyQ</thumbnail>
+    </item>
+  </items>
+</channel>
 </channels>
