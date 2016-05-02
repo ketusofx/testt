@@ -1,4 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+
+<channels>
+  <channels_info> 
+<title>TV</title>
+<genre>tv</genre>
+<description>los mejores canales de tv</description>
+<thumbnail>http://i.imgur.com/HufvHuO.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<date>2016</date>
+<credits>© Ketusofx</credits>
+</channels_info>
+  
 <channel>
   <name>FOX</name>
   <thumbail>http://latino-webtv.com/iptv/logos/fox.png</thumbail>
@@ -21,3 +34,4 @@
     </item>
   </items>
 </channel>
+</channels>
