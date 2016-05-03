@@ -126,11 +126,13 @@
       <title>listado de peliculas</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</externallink>
     </item>
     <item>
       <title>cantinflas</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</externallink>
     </item>
     <item>
       <title>estrenos 2016</title>
@@ -184,12 +186,12 @@
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Smart_Tv.m3u</link>
       <thumbnail></thumbnail>
     </item>
-    <item>
-      <title>video on demand</title>
+    </items>
+    </channel>
+    <channel>
+      <name>video on demand</name>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/VIDEO%20ON%20DEMAN.m3u</link>
       <thumbnail></thumbnail>
-    </item>
-  </items>
 </channel>
 
 </channels>
